@@ -1,0 +1,32 @@
+h1{
+    background-color: gold;
+}
+
+section h2{
+    color: blueviolet;
+}
+.textoNaranja{
+    color: orangered;
+}
+
+#documento{
+    color:blue
+}
+
+.backgroundRojo{
+background-color: red;
+}
+
+.backgroundAmarillo{
+background-color: yellow;
+}
+
+body{
+    margin: 2px;
+    padding: 1px;
+    border: 1px dashed green;
+}
+
+.backgroundCeleste{
+    background-color: aquamarine;
+}
